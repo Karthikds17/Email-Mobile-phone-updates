@@ -58,7 +58,8 @@ library(mailR)
                     ssl = T),
           authenticate = T,
           attach.files = ("E:/Python_script/log_file.log”)
-#####Integrating STEP-1 & STEP-2
+          
+### Integrating STEP-1 & STEP-2
           
           
           
